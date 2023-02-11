@@ -9,6 +9,7 @@
 
 
 *.iml
+*.xml
 
 .idea/src/main/java/com/hillel/ignored
 
